@@ -4,3 +4,4 @@
 - Fix-B
 - Feature-C
 - Feature-D
+- Feature-E
