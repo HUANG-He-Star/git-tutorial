@@ -2,3 +2,5 @@
 
 - Add feature B.
 - fix-B
+
+- feature-C
